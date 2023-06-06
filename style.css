@@ -1,0 +1,108 @@
+p.text-image {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    transform: translate(-05%, -05%);
+    color: black;
+    background-color:white;
+    padding: 10px;
+    width: 500px;
+  }
+  p.text-home {
+
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-05%, -05%);
+    color: black;
+    background-color: white;
+    padding: 10px;
+    height: 51px;
+    width: 500px;
+
+  }
+  p.box{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translate(-05%, -05%);
+    color: black;
+    background-color: white;
+    padding: 10px;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+
+  }
+
+
+img.cycle{width: 100vwpx;
+height: 500px;
+width:100vw;
+height: 500px;}
+em.bar{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+em.reserve{
+    background-color:green;
+    color: white;
+    font-size: large;
+
+}
+em.ruoee{
+    background-color:red;
+    color: white;
+    font-size: larger;
+
+}
+.images_countries{
+
+display: flex;
+justify-content: space-evenly;
+
+}
+.italy{
+    display: flex;
+
+}
+pre.ww{
+  font-size: xx-large;
+  background-color: greenyellow;
+  color: white;
+}
+pre.vv{
+    font-size: large;
+    color: greenyellow;
+    font-weight: bolder;
+
+}
+pre.yy{
+    font-size: large;
+    color: palevioletred;
+    font-weight: bolder;
+}
+pre.mm{
+    font-size: x-large;
+    background-color: greenyellow;
+    color: white;
+
+}
+.logos{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+    background-color: lightgrey;
+
+}
+
+  .last{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+
+  }
+  em.home{
+    font-size: x-large;
+  }
